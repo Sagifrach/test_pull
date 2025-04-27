@@ -1,2 +1,3 @@
 # test_pull
-test pull
+test pull \
+new line
